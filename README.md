@@ -65,5 +65,5 @@ Feel free to open an issue or submit a pull request if you'd like to improve thi
 This project is **MIT licensed**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/pradyumnajavalagi)
+Made by [Pradyumna A J](https://github.com/pradyumnajavalagi)
 
